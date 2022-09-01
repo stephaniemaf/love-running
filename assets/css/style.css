@@ -53,3 +53,8 @@ h1, h2{
     border-bottom: 1px solid #3a3a3a;
 }
  
+#hero-image{
+    height: 600px;
+    width: 100%;
+    background: url('../css/images/hero-image.webp') no-repeat center center;
+}
